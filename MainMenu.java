@@ -39,6 +39,7 @@ public class MainMenu extends Activity implements OnClickListener {
 		return true;
 	}
 
+
 	@Override
 	public void onClick(View v) {
 		if(v == b1){
